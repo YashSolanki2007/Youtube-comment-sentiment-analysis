@@ -1,0 +1,1496 @@
+{
+    "0": [
+        [
+            "id",
+            "6rJ7KDoVz5E"
+        ],
+        [
+            "title",
+            "Making a Artificial Intelligence chatbot in Python"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :):)\n\nYou can easily improve on the dataset by modifying the conversation.json file to make the model a lot better. You can also improve the model by adding more layers like LSTMs and Dropouts\n\n\nThe link for the github repository is down below. \nhttps://github.com/YashSolanki2007/Chatbot\n\nAlso after running the model once comment down the model.fit() code and the model = keras.Sequential([...]) code and uncomment the model = keras.models.load_model() code so that the model will not have to train everytime"
+        ],
+        [
+            "published_at",
+            "2021-08-19T12:53:14Z"
+        ]
+    ],
+    "1": [
+        [
+            "id",
+            "P--2sMOsO4c"
+        ],
+        [
+            "title",
+            "Neural Style Transfer using Tensorflow tutorial"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :)\n\nHere is a link to the official tensorflow docs \nhttps://www.tensorflow.org/tutorials/generative/style_transfer#setup"
+        ],
+        [
+            "published_at",
+            "2021-08-11T15:41:33Z"
+        ]
+    ],
+    "2": [
+        [
+            "id",
+            "TPxkkTMioxg"
+        ],
+        [
+            "title",
+            "Making A Falling Skies Game In Python (Part-4)"
+        ],
+        [
+            "description",
+            "Hope that you enjoyed the video :):)\n\nHere is the link to the github repo with all the code \nhttps://github.com/YashSolanki2007/Falling-Skies"
+        ],
+        [
+            "published_at",
+            "2021-08-02T16:53:45Z"
+        ]
+    ],
+    "3": [
+        [
+            "id",
+            "kRkmA-hRorA"
+        ],
+        [
+            "title",
+            "Making A Falling Skies Game In Python (Part-3)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :):)"
+        ],
+        [
+            "published_at",
+            "2021-07-22T11:25:37Z"
+        ]
+    ],
+    "4": [
+        [
+            "id",
+            "0VX2i6I5NUM"
+        ],
+        [
+            "title",
+            "Making A Falling Skies Game In Python (Part-2)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :):)"
+        ],
+        [
+            "published_at",
+            "2021-07-19T17:58:25Z"
+        ]
+    ],
+    "5": [
+        [
+            "id",
+            "EjWyanDdc2E"
+        ],
+        [
+            "title",
+            "Making A Falling Skies Game In Python (Part-1)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :):)\n\n Also here is a link to the projects github repo \n\n\nhttps://github.com/YashSolanki2007/Falling-Skies"
+        ],
+        [
+            "published_at",
+            "2021-07-18T09:21:53Z"
+        ]
+    ],
+    "6": [
+        [
+            "id",
+            "w1SszngS3RY"
+        ],
+        [
+            "title",
+            "Object Orientated Programming Tutorial In Python"
+        ],
+        [
+            "description",
+            "Hope you Enjoyed the video"
+        ],
+        [
+            "published_at",
+            "2021-06-19T13:31:25Z"
+        ]
+    ],
+    "7": [
+        [
+            "id",
+            "pf-yIr3tj3A"
+        ],
+        [
+            "title",
+            "Making an app using React Native that gives prices of various Cryptocurrencies"
+        ],
+        [
+            "description",
+            "Hope you Liked the vide :)\n\nLink to the api \nhttps://api.coingecko.com/api/v3/coins/"
+        ],
+        [
+            "published_at",
+            "2021-06-11T15:13:42Z"
+        ]
+    ],
+    "8": [
+        [
+            "id",
+            "RsqcrWy6C7Q"
+        ],
+        [
+            "title",
+            "Predicting Bitcoin Prices using Neural Networks"
+        ],
+        [
+            "description",
+            "Here is the link for the code and dataset\n\nhttps://github.com/YashSolanki2007/Future-Bitcoin-Price-Prediction-Neural-Network"
+        ],
+        [
+            "published_at",
+            "2021-06-10T11:12:37Z"
+        ]
+    ],
+    "9": [
+        [
+            "id",
+            "Y3HqPwHj63A"
+        ],
+        [
+            "title",
+            "The Math Behind a Convolutional neural network."
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :)"
+        ],
+        [
+            "published_at",
+            "2021-05-28T08:53:01Z"
+        ]
+    ],
+    "10": [
+        [
+            "id",
+            "nUyM9cXX1so"
+        ],
+        [
+            "title",
+            "I Implemented Neural Style Transfer to my Image"
+        ],
+        [
+            "description",
+            "Hope that you enjoyed the video"
+        ],
+        [
+            "published_at",
+            "2021-05-26T09:50:30Z"
+        ]
+    ],
+    "11": [
+        [
+            "id",
+            "dtWam5gwA2o"
+        ],
+        [
+            "title",
+            "Making a Fortnite POI Coordinate finding website"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video"
+        ],
+        [
+            "published_at",
+            "2021-05-17T09:31:19Z"
+        ]
+    ],
+    "12": [
+        [
+            "id",
+            "r31tuM0oh7k"
+        ],
+        [
+            "title",
+            "Covid 19 Tracking Website in Python (Part-2)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video"
+        ],
+        [
+            "published_at",
+            "2021-05-14T10:29:08Z"
+        ]
+    ],
+    "13": [
+        [
+            "id",
+            "0hNnNi4T0V0"
+        ],
+        [
+            "title",
+            "Covid 19 Tracking Website in Python (Part-1)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video"
+        ],
+        [
+            "published_at",
+            "2021-05-12T06:00:25Z"
+        ]
+    ],
+    "14": [
+        [
+            "id",
+            "97T4zFiiCk0"
+        ],
+        [
+            "title",
+            "Making Frogger In Python (Part-3)"
+        ],
+        [
+            "description",
+            "Hope that you enjoyed the video. :):)\n\nHere is the link to the code and the assets\n\nhttps://github.com/YashSolanki2007/Frogger"
+        ],
+        [
+            "published_at",
+            "2021-05-06T06:30:06Z"
+        ]
+    ],
+    "15": [
+        [
+            "id",
+            "T_-EB-XbpTg"
+        ],
+        [
+            "title",
+            "Making Frogger In Python (Part-2)"
+        ],
+        [
+            "description",
+            "Hope that you enjoyed the video :) :)"
+        ],
+        [
+            "published_at",
+            "2021-04-29T07:13:02Z"
+        ]
+    ],
+    "16": [
+        [
+            "id",
+            "gXn1VR3OIDA"
+        ],
+        [
+            "title",
+            "Making Frogger In Python (Part-1)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video. Also just on a sidenote the people who are waiting for the google clone, I am still currently working on it and am having a few issues related to the api calls because all I could only use a limited number of requests and it seems that I overloaded that. \n\n\nAlso here is the link to all the assets for the game \n\nhttps://github.com/YashSolanki2007/Frogger\n\n:):)"
+        ],
+        [
+            "published_at",
+            "2021-04-26T17:01:15Z"
+        ]
+    ],
+    "17": [
+        [
+            "id",
+            "szOR_8JJNQ0"
+        ],
+        [
+            "title",
+            "Google Clone In Python (Part 1)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :)\n\nHere is the link for the api \nhttps://rapidapi.com/apigeek/api/google-search3\n\nAlso please note that you can only use a f string in python 3.6 and above."
+        ],
+        [
+            "published_at",
+            "2021-04-12T16:51:19Z"
+        ]
+    ],
+    "18": [
+        [
+            "id",
+            "90OqR6vmMSo"
+        ],
+        [
+            "title",
+            "Embedding Tensorflow Image Classification in a website with Python"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video"
+        ],
+        [
+            "published_at",
+            "2021-04-10T18:05:40Z"
+        ]
+    ],
+    "19": [
+        [
+            "id",
+            "4hwT8ZhGmdQ"
+        ],
+        [
+            "title",
+            "Bubble Sort Algorithm in Python"
+        ],
+        [
+            "description",
+            "Hope You Enjoyed The Video. Also special thanks to the website javatpoint since the code was taken from their website."
+        ],
+        [
+            "published_at",
+            "2021-04-01T10:10:24Z"
+        ]
+    ],
+    "20": [
+        [
+            "id",
+            "u8VLuF82ONk"
+        ],
+        [
+            "title",
+            "Making a Search Engine for Pokemons In Python"
+        ],
+        [
+            "description",
+            "hope you enjoyed this video :)\nI will be expanding on this idea. I hope even you do the same."
+        ],
+        [
+            "published_at",
+            "2021-03-25T10:21:48Z"
+        ]
+    ],
+    "21": [
+        [
+            "id",
+            "Lp2sEd-XVhg"
+        ],
+        [
+            "title",
+            "Making a website that Gives me information about my youtube videos"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :)"
+        ],
+        [
+            "published_at",
+            "2021-03-23T06:39:49Z"
+        ]
+    ],
+    "22": [
+        [
+            "id",
+            "pQR2HH3Xq6w"
+        ],
+        [
+            "title",
+            "Making forums website using React"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2021-03-09T06:25:54Z"
+        ]
+    ],
+    "23": [
+        [
+            "id",
+            "-VvatU1pTGg"
+        ],
+        [
+            "title",
+            "Making A Mobile Application with React Native"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2021-03-09T05:29:43Z"
+        ]
+    ],
+    "24": [
+        [
+            "id",
+            "EnSx1Z_6apQ"
+        ],
+        [
+            "title",
+            "Making a Website in Python that generates rap songs"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video. Sorry can't provide the github repo link but don't worry go to the tensorflow yt channel and check their Irish song generator vid then just use that code for this. :):)"
+        ],
+        [
+            "published_at",
+            "2021-03-02T05:22:32Z"
+        ]
+    ],
+    "25": [
+        [
+            "id",
+            "D94I_uIbpFE"
+        ],
+        [
+            "title",
+            "Making a Wikipedia clone in Python"
+        ],
+        [
+            "description",
+            "Hope you enjoyed this video :)"
+        ],
+        [
+            "published_at",
+            "2021-03-01T06:39:44Z"
+        ]
+    ],
+    "26": [
+        [
+            "id",
+            "_2B2w-BRyhU"
+        ],
+        [
+            "title",
+            "Neural Networks and Tensorflow crash course"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :):)"
+        ],
+        [
+            "published_at",
+            "2021-02-26T18:53:18Z"
+        ]
+    ],
+    "27": [
+        [
+            "id",
+            "OLmCD8WxySU"
+        ],
+        [
+            "title",
+            "Quantum Mechanics (Looking at the Schr\u00f6dinger\u2019s wave equation)"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2021-02-24T13:04:17Z"
+        ]
+    ],
+    "28": [
+        [
+            "id",
+            "B08faes0RSM"
+        ],
+        [
+            "title",
+            "I Made A Website where you can post Memes"
+        ],
+        [
+            "description",
+            "Here is the url for the website\n\nhttps://machine-learning-help.web.app/\n\n\nHope you liked it :)"
+        ],
+        [
+            "published_at",
+            "2021-02-22T07:50:59Z"
+        ]
+    ],
+    "29": [
+        [
+            "id",
+            "UyE0J81btME"
+        ],
+        [
+            "title",
+            "React Tutorial (Part-2)"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2021-02-16T09:35:50Z"
+        ]
+    ],
+    "30": [
+        [
+            "id",
+            "6jo1fSsO3uE"
+        ],
+        [
+            "title",
+            "React Tutorial (Part-1)"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2021-02-15T07:19:15Z"
+        ]
+    ],
+    "31": [
+        [
+            "id",
+            "MWQSR78mI1M"
+        ],
+        [
+            "title",
+            "IOS App Development Tutorial (Part-2)"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2021-02-01T09:54:38Z"
+        ]
+    ],
+    "32": [
+        [
+            "id",
+            "eRULZrR3qIY"
+        ],
+        [
+            "title",
+            "Live Coding Neural Networks In Python"
+        ],
+        [
+            "description",
+            "In this livestream I will Code Neural Networks In Python"
+        ],
+        [
+            "published_at",
+            "2021-01-22T09:34:20Z"
+        ]
+    ],
+    "33": [
+        [
+            "id",
+            "k4Z6Pz9sm_g"
+        ],
+        [
+            "title",
+            "IOS App Development Tutorial (Part-1)"
+        ],
+        [
+            "description",
+            "A bit of a different series this time. But I hope you enjoy it. Also to do this on windows there is a program called mac stadium, it has also has a 30 day free trial which you can use"
+        ],
+        [
+            "published_at",
+            "2021-01-27T04:09:38Z"
+        ]
+    ],
+    "34": [
+        [
+            "id",
+            "qgy7vv94zmo"
+        ],
+        [
+            "title",
+            "Making A Neural Network In Python that Composes Rap Songs"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :)"
+        ],
+        [
+            "published_at",
+            "2021-01-15T09:47:08Z"
+        ]
+    ],
+    "35": [
+        [
+            "id",
+            "4JUCSfkOgow"
+        ],
+        [
+            "title",
+            "Making A Text Classification Neural Network In Python that classifies Fifa Player stats"
+        ],
+        [
+            "description",
+            "Hope You Enjoyed The Video :)"
+        ],
+        [
+            "published_at",
+            "2021-01-12T17:43:43Z"
+        ]
+    ],
+    "36": [
+        [
+            "id",
+            "oEZINVLVKRg"
+        ],
+        [
+            "title",
+            "Making a GUI Rock Paper Scissors Game In Python"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video. Wishing you all a VERY HAPPY NEW YEAR"
+        ],
+        [
+            "published_at",
+            "2021-01-01T10:58:34Z"
+        ]
+    ],
+    "37": [
+        [
+            "id",
+            "Ad_AfZ1BcEU"
+        ],
+        [
+            "title",
+            "Making a Neural Network In Python that composes songs"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-12-27T05:28:06Z"
+        ]
+    ],
+    "38": [
+        [
+            "id",
+            "ozICWPXEyD8"
+        ],
+        [
+            "title",
+            "Making a Neural Network In Python that classifies images of Scientists."
+        ],
+        [
+            "description",
+            "Comment down below the projects you made using ml and neural networks \n\nHope you enjoyed the video :)"
+        ],
+        [
+            "published_at",
+            "2020-12-25T07:03:37Z"
+        ]
+    ],
+    "39": [
+        [
+            "id",
+            "nO7ZD36RpQ8"
+        ],
+        [
+            "title",
+            "Quantum Computing In Python(Part-2)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed this series"
+        ],
+        [
+            "published_at",
+            "2020-12-23T13:52:42Z"
+        ]
+    ],
+    "40": [
+        [
+            "id",
+            "mq7UroOMRuY"
+        ],
+        [
+            "title",
+            "Quantum Computing In Python(Part-1)"
+        ],
+        [
+            "description",
+            "Hope you enjoy this series"
+        ],
+        [
+            "published_at",
+            "2020-12-21T11:27:56Z"
+        ]
+    ],
+    "41": [
+        [
+            "id",
+            "TfK3oKC9n1M"
+        ],
+        [
+            "title",
+            "Making A Replica of Chrome Dinosaur In Python"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-12-11T14:58:30Z"
+        ]
+    ],
+    "42": [
+        [
+            "id",
+            "cRA3ysxLGe0"
+        ],
+        [
+            "title",
+            "Making a Neural Network That classifies my Images(In 10 Minutes)"
+        ],
+        [
+            "description",
+            "A Bit of a different and fun video today"
+        ],
+        [
+            "published_at",
+            "2020-12-10T12:50:32Z"
+        ]
+    ],
+    "43": [
+        [
+            "id",
+            "BkK_Ykw4mPQ"
+        ],
+        [
+            "title",
+            "Making A Neural Network In Python that classifies Citrus Leaves Images"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video smash subscribe if you want me to make a complete neural network"
+        ],
+        [
+            "published_at",
+            "2020-12-02T08:59:49Z"
+        ]
+    ],
+    "44": [
+        [
+            "id",
+            "HIIZQGRqJTM"
+        ],
+        [
+            "title",
+            "Making Flappy Bird In Python (Part-2)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video"
+        ],
+        [
+            "published_at",
+            "2020-12-01T05:29:42Z"
+        ]
+    ],
+    "45": [
+        [
+            "id",
+            "mqpfrNzzzZ8"
+        ],
+        [
+            "title",
+            "Making Flappy Bird In Python (Part-1)"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :):)"
+        ],
+        [
+            "published_at",
+            "2020-11-30T15:55:21Z"
+        ]
+    ],
+    "46": [
+        [
+            "id",
+            "nJSDT3u4kPo"
+        ],
+        [
+            "title",
+            "Making A Custom Layer In Keras"
+        ],
+        [
+            "description",
+            "Hope you enjoyed the video :)"
+        ],
+        [
+            "published_at",
+            "2020-11-29T07:53:01Z"
+        ]
+    ],
+    "47": [
+        [
+            "id",
+            "PLxg4ZG4AC8"
+        ],
+        [
+            "title",
+            "Making A Machine Learning Model In Python that classifies music genres"
+        ],
+        [
+            "description",
+            "A Bit of a different video hope you enjoyed it. Try it out by yourself also with some other pieces of data"
+        ],
+        [
+            "published_at",
+            "2020-11-28T17:44:29Z"
+        ]
+    ],
+    "48": [
+        [
+            "id",
+            "YrtTe5BxAFU"
+        ],
+        [
+            "title",
+            "Making A Neural Network In Python That Classifies Malaria Cell Images"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-11-24T17:36:13Z"
+        ]
+    ],
+    "49": [
+        [
+            "id",
+            "69x-188nwHE"
+        ],
+        [
+            "title",
+            "Making A Neural Network In Python that classifies My Emotions"
+        ],
+        [
+            "description",
+            "Hope You Enjoyed the video."
+        ],
+        [
+            "published_at",
+            "2020-11-22T13:43:46Z"
+        ]
+    ],
+    "50": [
+        [
+            "id",
+            "j778c_cfEfE"
+        ],
+        [
+            "title",
+            "Making A Calculator In Python That Calculates The Schwarzschild radius of A Black Hole."
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-11-20T05:42:31Z"
+        ]
+    ],
+    "51": [
+        [
+            "id",
+            "ds2oTN3BX20"
+        ],
+        [
+            "title",
+            "Facial Detection In Python Tutorial"
+        ],
+        [
+            "description",
+            "Here is the link to download the harrcascade\n\nhttps://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml"
+        ],
+        [
+            "published_at",
+            "2020-10-31T10:43:15Z"
+        ]
+    ],
+    "52": [
+        [
+            "id",
+            "UbzpRxK_jno"
+        ],
+        [
+            "title",
+            "Making An Online Multi User Chat App (Using Sockets and Networking)"
+        ],
+        [
+            "description",
+            "A bit of a different video today but hope you all enjoyed it :):):)"
+        ],
+        [
+            "published_at",
+            "2020-10-29T14:42:01Z"
+        ]
+    ],
+    "53": [
+        [
+            "id",
+            "hraBhgpnVNo"
+        ],
+        [
+            "title",
+            "Making A Neural Network In Python that classifies COVID-19 Images"
+        ],
+        [
+            "description",
+            "Hope you enjoyed this neural network on real life data \n\nHere is the link for the download for the dataset\n\nhttps://www.kaggle.com/pranavraikokte/covid19-image-dataset"
+        ],
+        [
+            "published_at",
+            "2020-10-28T07:21:08Z"
+        ]
+    ],
+    "54": [
+        [
+            "id",
+            "7J-DEoTPWjs"
+        ],
+        [
+            "title",
+            "Making A CNN that classifies Bangla Numbers"
+        ],
+        [
+            "description",
+            "Here is the link for the colab file\n\nhttps://colab.research.google.com/drive/1nzNjvmWh6gr7Kq8sCAr52MvQCOIeFLHx#scrollTo=LcoAwYVPesvI"
+        ],
+        [
+            "published_at",
+            "2020-10-26T13:57:44Z"
+        ]
+    ],
+    "55": [
+        [
+            "id",
+            "-LMN1cEmpKo"
+        ],
+        [
+            "title",
+            "Making Doodle Jump In Python"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-10-14T04:43:35Z"
+        ]
+    ],
+    "56": [
+        [
+            "id",
+            "Dct0e3J9LME"
+        ],
+        [
+            "title",
+            "Pygame Tutorial (Part 1)"
+        ],
+        [
+            "description",
+            "In case you are wondering where i got the image assets from.. I got it from a website called flaticon.com"
+        ],
+        [
+            "published_at",
+            "2020-10-08T16:01:48Z"
+        ]
+    ],
+    "57": [
+        [
+            "id",
+            "IGQFARTyG2Y"
+        ],
+        [
+            "title",
+            "Making A Neural Network In Python That Detects Types Of Cancer Cells"
+        ],
+        [
+            "description",
+            "Here is the link for the notebook\n\nhttps://colab.research.google.com/drive/1V9is2xgcs6HbT0nqjxv-ja8o8qgjqt2E#scrollTo=6Pfb1V8iYeP4"
+        ],
+        [
+            "published_at",
+            "2020-10-07T14:31:28Z"
+        ]
+    ],
+    "58": [
+        [
+            "id",
+            "Q3LBMCgEP_8"
+        ],
+        [
+            "title",
+            "Convolutional Neural Network (CNN) explained"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-10-07T07:28:28Z"
+        ]
+    ],
+    "59": [
+        [
+            "id",
+            "z5_IOdHqSIw"
+        ],
+        [
+            "title",
+            "Making A Neural Network In Python That Can Classify Horse and Human Images"
+        ],
+        [
+            "description",
+            "Hope you guys liked the video\n \nHere is the link for the notebook\n\nhttps://colab.research.google.com/drive/1oYbNx6Fvz2GTPe8hWVGC-yIDoik4r-tC#scrollTo=LlZzMFtr3nbf"
+        ],
+        [
+            "published_at",
+            "2020-10-06T09:43:57Z"
+        ]
+    ],
+    "60": [
+        [
+            "id",
+            "l-zkQvryBgY"
+        ],
+        [
+            "title",
+            "Making A Neural Network in Python that classifies Rock Paper Scissor Images"
+        ],
+        [
+            "description",
+            "You can actually make the model much much more accurate by just writing four more lines of code. Hope you can figure that out ;);)"
+        ],
+        [
+            "published_at",
+            "2020-10-05T07:14:18Z"
+        ]
+    ],
+    "61": [
+        [
+            "id",
+            "8BJOuAPH4p4"
+        ],
+        [
+            "title",
+            "Making A Deep Learning Neural Network In Python"
+        ],
+        [
+            "description",
+            "Hope you liked the video \n\nHere is the link for the notebook\n\nhttps://colab.research.google.com/drive/1pyf9C0mIbE_161hCgcVoeTnyJnhJ-tPb#scrollTo=hDxP-3seiu9g"
+        ],
+        [
+            "published_at",
+            "2020-10-04T07:40:02Z"
+        ]
+    ],
+    "62": [
+        [
+            "id",
+            "in8Nl9FflhM"
+        ],
+        [
+            "title",
+            "Deep Learning In Python using Tensorflow tutorial"
+        ],
+        [
+            "description",
+            "Here is the link for the google colabatory\n\nhttps://colab.research.google.com/drive/1DezVmToej2eno1dKPq0wjIul1dx7nyAI#scrollTo=OYJhd0Rjt7fI"
+        ],
+        [
+            "published_at",
+            "2020-10-03T10:41:39Z"
+        ]
+    ],
+    "63": [
+        [
+            "id",
+            "5e52zo-GJIc"
+        ],
+        [
+            "title",
+            "Making A Drawing App In Python (Using Mouse Controls)"
+        ],
+        [
+            "description",
+            "Here is the code for this\n\n\nimport turtle\nfrom turtle import Turtle, Screen\n\nscreen = Screen()\n\nt = Turtle(\"turtle\")\nt.speed(-2)\n\ndef dragging(x, y):\n    t.ondrag(None)\n    t.setheading(t.towards(x, y))\n    t.goto(x, y)\n    t.ondrag(dragging)\n\ndef main():\n    turtle.listen()\n    t.ondrag(dragging)\n\n    screen.mainloop()\n\nmain()"
+        ],
+        [
+            "published_at",
+            "2020-09-30T14:37:19Z"
+        ]
+    ],
+    "64": [
+        [
+            "id",
+            "5EI2s540oZc"
+        ],
+        [
+            "title",
+            "Making A Temperature Finding App In Python"
+        ],
+        [
+            "description",
+            "This Video will give a in depth explanation on how to make your own temperature/weather finding app using the python module tkinter. Through this video you will also learn how to use pyinstaller and convert any python file to an executable.Last But not the least you will also learn how to make a message box using tkinter"
+        ],
+        [
+            "published_at",
+            "2020-09-22T10:32:29Z"
+        ]
+    ],
+    "65": [
+        [
+            "id",
+            "-iRhFrI905A"
+        ],
+        [
+            "title",
+            "Making Agar.io In Python"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-09-15T13:02:06Z"
+        ]
+    ],
+    "66": [
+        [
+            "id",
+            "NXQYqJfrmbU"
+        ],
+        [
+            "title",
+            "How To Fix the Pip Issue In Python"
+        ],
+        [
+            "description",
+            "Through this video I will Teach You how to fix the most sort after issue of python Which Is How to Fix Pip..."
+        ],
+        [
+            "published_at",
+            "2020-09-13T16:15:57Z"
+        ]
+    ],
+    "67": [
+        [
+            "id",
+            "nicPk1MbX1U"
+        ],
+        [
+            "title",
+            "I made a replica of Doodle Jump In Python"
+        ],
+        [
+            "description",
+            "Hi I actually made A replica of the pretty popular Moblie Game Doodle Jump In Python. I hope you guys appreciate that and comment down below if you guys want to see a tutorial on this :):)"
+        ],
+        [
+            "published_at",
+            "2020-09-08T14:03:08Z"
+        ]
+    ],
+    "68": [
+        [
+            "id",
+            "3MK8pOO7Kfk"
+        ],
+        [
+            "title",
+            "Making an external window in python"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-09-01T15:01:11Z"
+        ]
+    ],
+    "69": [
+        [
+            "id",
+            "DtefVVkDkXU"
+        ],
+        [
+            "title",
+            "7 Up 7 Down Game In Python"
+        ],
+        [
+            "description",
+            "Through This Video You Will Learn How To Program A 7 Up 7 Down Game In Python. So Good Luck :)"
+        ],
+        [
+            "published_at",
+            "2020-08-20T16:20:05Z"
+        ]
+    ],
+    "70": [
+        [
+            "id",
+            "EP1hrTKCVes"
+        ],
+        [
+            "title",
+            "Data Visualization With Matplotlib(Part-2)"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-08-11T13:37:33Z"
+        ]
+    ],
+    "71": [
+        [
+            "id",
+            "vrpcYIsuHgA"
+        ],
+        [
+            "title",
+            "Flask Crash Course in one video"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-08-06T09:43:48Z"
+        ]
+    ],
+    "72": [
+        [
+            "id",
+            "r8SkMvH1nlk"
+        ],
+        [
+            "title",
+            "Making a  Drawing App In Python"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-07-30T17:06:16Z"
+        ]
+    ],
+    "73": [
+        [
+            "id",
+            "UVwa8wCILnc"
+        ],
+        [
+            "title",
+            "Classic Pong Game In Python"
+        ],
+        [
+            "description",
+            "Hope You Enjoyed The Video :)"
+        ],
+        [
+            "published_at",
+            "2020-07-29T13:36:38Z"
+        ]
+    ],
+    "74": [
+        [
+            "id",
+            "Y0qAu7qWW9Y"
+        ],
+        [
+            "title",
+            "Rock Paper Scissors In Python"
+        ],
+        [
+            "description",
+            "This is going to be a tutorial for absolute beginners and will help them in creating their first Game.\n\nHere is the Code\n\nimport random \n\n#Title\nprint(\"ROCK PAPER SCISSOR\\n\")\n\n#Mainloop\nwhile True:\n #Game Variables\n choices = [\"Rock\", \"Paper\", \"Scissor\"]\n\n score = 0\n print(score)\n\n guess = input(\"Enter Your Guess: \")\n print(\"You Guessed \" + guess)\n\n computer_guess = random.choice(choices)\n print(\"The Computer Guessed: \" + computer_guess)\n\n #Possibilites\n if guess in choices:\n  if guess == computer_guess:\n   print(\"Draw\")\n\n  if guess == \"Rock\" and computer_guess == \"Scissor\":\n   print(\"You Win Yay!!!\")\n   score += 1 \n   print(\"Your Score is \" + score)\n\n  if guess == \"Rock\" and computer_guess == \"Paper\":\n   print(\"Computer Wins\")\n   print(\"You Lose\")\n\n  if guess == \"Paper\" and computer_guess == \"Rock\":\n   print(\"You Win Yay!!!\")\n   score += 1\n   print(\"Your Score is \" + score)\n\n  if guess == \"Paper\" and computer_guess == \"Scissor\":\n   print(\"Computer Wins\")\n   print(\"You Lose\")\n\n  if guess == \"Scissor\" and computer_guess == \"Paper\":\n   print(\"You Win Yay!!!\")\n   score += 1\n   print(\"Your Score is \" + score)\n\n  if guess == \"Scissor\" and computer_guess == \"Rock\":\n   print(\"Computer Wins\")\n   print(\"You Lose\")"
+        ],
+        [
+            "published_at",
+            "2020-07-28T14:50:36Z"
+        ]
+    ],
+    "75": [
+        [
+            "id",
+            "cTqZGlfPi90"
+        ],
+        [
+            "title",
+            "Turtle Race Game"
+        ],
+        [
+            "description",
+            "Here is the code for the game\n\nimport turtle\nimport time\nfrom turtle import Turtle\nfrom random import randint\n\n#Creating the main window\nwindow = turtle.Screen()\nwindow.title(\"Turtle Race Game Tutorial\")\nwindow.bgcolor(\"forestgreen\")\nturtle.color(\"white\")\nturtle.speed(0)\nturtle.penup()\nturtle.setpos(-140,200)\nturtle.write(\"TURTLE RACE\", font=(\"Arial\", 30, \"bold\"))\nturtle.penup()\n\n#Making the dirt\nturtle.setpos(-400,-180)\nturtle.color(\"chocolate\")\nturtle.begin_fill()\nturtle.pendown()\nturtle.forward(800)\nturtle.right(90)\nturtle.forward(300)\nturtle.right(90)\nturtle.forward(800)\nturtle.right(90)\nturtle.forward(300)\nturtle.end_fill()\n\n#Finish Line\n\n#FINISH LINE\n\nstamp_size=20\nsquare_size=15\nfinish_line=200\n\n\nturtle.color(\"black\")\nturtle.shape(\"square\")\nturtle.shapesize(square_size/stamp_size)\nturtle.penup()\n\nfor i in range(10):\n    turtle.setpos(finish_line,(150-(i * square_size * 2)))\n    turtle.stamp()\n\n\nfor j in range(10):\n    turtle.setpos(finish_line + square_size,((150 - square_size)-(j * square_size * 2)))\n    turtle.stamp()\n\nturtle.hideturtle()\n\n#Making the first player\n\nturtle1 = Turtle()\nturtle1.speed(0)\nturtle1.color(\"black\")\nturtle1.penup()\nturtle1.shape(\"turtle\")\nturtle1.goto(-250,100)\nturtle1.pendown()\n\n#Making the second player\n\nturtle2 = Turtle()\nturtle2.speed(0)\nturtle2.color(\"red\")\nturtle2.penup()\nturtle2.shape(\"turtle\")\nturtle2.goto(-250,50)\nturtle2.pendown()\n\n#Making the third player\n\nturtle3 = Turtle()\nturtle3.speed(0)\nturtle3.color(\"yellow\")\nturtle3.penup()\nturtle3.shape(\"turtle\")\nturtle3.goto(-250,0)\nturtle3.pendown()\n\n#Making the fourth player\n\nturtle4 = Turtle()\nturtle4.speed(0)\nturtle4.color(\"magenta\")\nturtle4.penup()\nturtle4.shape(\"turtle\")\nturtle4.goto(-250,-50)\nturtle4.pendown()\n\ntime.sleep(1)#Pause the game for a second\n\nfor i in range(145):\n    turtle1.forward(randint(1, 5))\n    turtle2.forward(randint(1, 5))\n    turtle3.forward(randint(1, 5))\n    turtle4.forward(randint(1, 5))\n\nturtle.hideturtle()\n\nwindow.mainloop()\n\nHope you all like the video :)"
+        ],
+        [
+            "published_at",
+            "2020-07-24T18:00:08Z"
+        ]
+    ],
+    "76": [
+        [
+            "id",
+            "IM0ppTF18CQ"
+        ],
+        [
+            "title",
+            "Data Visualization with python using matplotlib."
+        ],
+        [
+            "description",
+            "Through this course you will learn how to do data visualization with python and learn matplotlib fluently."
+        ],
+        [
+            "published_at",
+            "2020-07-22T15:54:23Z"
+        ]
+    ],
+    "77": [
+        [
+            "id",
+            "uaQR6yzqQg0"
+        ],
+        [
+            "title",
+            "Creating A secret Diary in Python"
+        ],
+        [
+            "description",
+            "This Video will teach you tkinter and also you will build a complete python project :)"
+        ],
+        [
+            "published_at",
+            "2020-07-19T07:20:20Z"
+        ]
+    ],
+    "78": [
+        [
+            "id",
+            "62pgKs0gwng"
+        ],
+        [
+            "title",
+            "Double Pong Game In Python"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-07-18T17:32:03Z"
+        ]
+    ],
+    "79": [
+        [
+            "id",
+            "ffEuk6gHNOY"
+        ],
+        [
+            "title",
+            "Python for beginners (Part-4)"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-07-01T16:50:59Z"
+        ]
+    ],
+    "80": [
+        [
+            "id",
+            "PoIaiBvsvaY"
+        ],
+        [
+            "title",
+            "Python for beginners (Part-3)"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-06-25T06:55:20Z"
+        ]
+    ],
+    "81": [
+        [
+            "id",
+            "t_e07ohCtIY"
+        ],
+        [
+            "title",
+            "Python for beginners (Part- 2)"
+        ],
+        [
+            "description",
+            ""
+        ],
+        [
+            "published_at",
+            "2020-06-18T17:08:13Z"
+        ]
+    ],
+    "82": [
+        [
+            "id",
+            "uGMvWTU761A"
+        ],
+        [
+            "title",
+            "Python for beginners (Part-1)"
+        ],
+        [
+            "description",
+            "This course will teach you python fluently"
+        ],
+        [
+            "published_at",
+            "2020-06-13T17:03:05Z"
+        ]
+    ]
+}

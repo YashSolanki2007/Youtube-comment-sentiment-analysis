@@ -1,0 +1,322 @@
+video_id,title,description,comment,published_at,author_display_name,comment_like_count,comment_count,video_dislike_count,video_favourite_count,video_like_count,video_view_count,channel_subscriber_count
+6rJ7KDoVz5E,Making a Artificial Intelligence chatbot in Python,"Hope you enjoyed the video :):)
+
+You can easily improve on the dataset by modifying the conversation.json file to make the model a lot better. You can also improve the model by adding more layers like LSTMs and Dropouts
+
+
+The link for the github repository is down below. 
+https://github.com/YashSolanki2007/Chatbot
+
+Also after running the model once comment down the model.fit() code and the model = keras.Sequential([...]) code and uncomment the model = keras.models.load_model() code so that the model will not have to train everytime",,2021-08-19T12:53:14Z,,,0,0,0,4,33,70
+P--2sMOsO4c,Neural Style Transfer using Tensorflow tutorial,"Hope you enjoyed the video :)
+
+Here is a link to the official tensorflow docs 
+https://www.tensorflow.org/tutorials/generative/style_transfer#setup",👌👌👌,2021-08-11T15:41:33Z,Swati Sheth,1,2,0,0,4,19,70
+TPxkkTMioxg,Making A Falling Skies Game In Python (Part-4),"Hope that you enjoyed the video :):)
+
+Here is the link to the github repo with all the code 
+https://github.com/YashSolanki2007/Falling-Skies",Oh wow,2021-08-02T16:53:45Z,rajul Shah,1,4,0,0,3,19,70
+kRkmA-hRorA,Making A Falling Skies Game In Python (Part-3),Hope you enjoyed the video :):),"Here is the code for the video 
+
+EjWyanDdc2E,Making A Falling Skies Game In Python (Part-1),"Hope you enjoyed the video :):)
+
+ Also here is a link to the projects github repo 
+
+
+https://github.com/YashSolanki2007/Falling-Skies",V nicely explained,2021-07-18T09:21:53Z,meera solanki,1,2,0,0,2,17,70
+w1SszngS3RY,Object Orientated Programming Tutorial In Python,Hope you Enjoyed the video,Such young age but great mind…. Stay blessed,2021-06-19T13:31:25Z,meera solanki,1,2,0,0,3,16,70
+pf-yIr3tj3A,Making an app using React Native that gives prices of various Cryptocurrencies,"Hope you Liked the vide :)
+
+Link to the api 
+https://api.coingecko.com/api/v3/coins/",Such young age but great mind…. Stay blessed,2021-06-11T15:13:42Z,meera solanki,1,0,0,0,4,20,70
+RsqcrWy6C7Q,Predicting Bitcoin Prices using Neural Networks,"Here is the link for the code and dataset
+
+https://github.com/YashSolanki2007/Future-Bitcoin-Price-Prediction-Neural-Network",There is a small mistake that I made in the video. At 1:48 I told that commas are something that are not good in Csv files when in reality semi colons are difficult to work with,2021-06-10T11:12:37Z,Coding made Easy,1,1,0,0,4,42,70
+Y3HqPwHj63A,The Math Behind a Convolutional neural network.,Hope you enjoyed the video :),If you thought that I made a mistake somewhere definitely comment down below,2021-05-28T08:53:01Z,Coding made Easy,2,3,0,0,4,23,70
+nUyM9cXX1so,I Implemented Neural Style Transfer to my Image,Hope that you enjoyed the video,Wow.... v nice style... new thing,2021-05-26T09:50:30Z,meera solanki,1,8,0,0,6,32,70
+dtWam5gwA2o,Making a Fortnite POI Coordinate finding website,Hope you enjoyed the video,Wow.... v nice style... new thing,2021-05-17T09:31:19Z,meera solanki,1,0,0,0,4,20,70
+r31tuM0oh7k,Covid 19 Tracking Website in Python (Part-2),Hope you enjoyed the video,Wow.... v nice style... new thing,2021-05-14T10:29:08Z,meera solanki,1,0,0,0,6,15,70
+0hNnNi4T0V0,Covid 19 Tracking Website in Python (Part-1),Hope you enjoyed the video,Nice idea,2021-05-12T06:00:25Z,meera solanki,2,4,0,0,4,15,70
+97T4zFiiCk0,Making Frogger In Python (Part-3),"Hope that you enjoyed the video. :):)
+
+Here is the link to the code and the assets
+
+https://github.com/YashSolanki2007/Frogger",This video actually ended a bit abruptly. But don’t worry I did not write any code afterwards so you did not miss anything important,2021-05-06T06:30:06Z,Coding made Easy,1,1,0,0,5,19,70
+T_-EB-XbpTg,Making Frogger In Python (Part-2),Hope that you enjoyed the video :) :),This video actually ended a bit abruptly. But don’t worry I did not write any code afterwards so you did not miss anything important,2021-04-29T07:13:02Z,Coding made Easy,1,0,0,0,5,20,70
+gXn1VR3OIDA,Making Frogger In Python (Part-1),"Hope you enjoyed the video. Also just on a sidenote the people who are waiting for the google clone, I am still currently working on it and am having a few issues related to the api calls because all I could only use a limited number of requests and it seems that I overloaded that. 
+
+
+Also here is the link to all the assets for the game 
+
+https://github.com/YashSolanki2007/Frogger
+
+:):)","Actually, this is a miracle. What are the chances that my computer class is making Frogger in Python the same day you upload this video? Amazing.",2021-04-26T17:01:15Z,SentiProductions,1,2,0,0,8,56,70
+szOR_8JJNQ0,Google Clone In Python (Part 1),"Hope you enjoyed the video :)
+
+Here is the link for the api 
+https://rapidapi.com/apigeek/api/google-search3
+
+Also please note that you can only use a f string in python 3.6 and above.",awesome video! I wait for the second part  :D,2021-04-12T16:51:19Z,Commentatore di fanpage,1,2,0,0,5,40,70
+90OqR6vmMSo,Embedding Tensorflow Image Classification in a website with Python,Hope you enjoyed the video,awesome video! I wait for the second part  :D,2021-04-10T18:05:40Z,Commentatore di fanpage,1,0,0,0,4,22,70
+4hwT8ZhGmdQ,Bubble Sort Algorithm in Python,Hope You Enjoyed The Video. Also special thanks to the website javatpoint since the code was taken from their website.,awesome video! I wait for the second part  :D,2021-04-01T10:10:24Z,Commentatore di fanpage,1,0,0,0,6,14,70
+u8VLuF82ONk,Making a Search Engine for Pokemons In Python,"hope you enjoyed this video :)
+I will be expanding on this idea. I hope even you do the same.",Brooooooo what an awesome project love it mannnnnnnnn,2021-03-25T10:21:48Z,Dhruv Solanki,3,6,0,0,5,27,70
+Lp2sEd-XVhg,Making a website that Gives me information about my youtube videos,Hope you enjoyed the video :),So good to see so many videos,2021-03-23T06:39:49Z,meera solanki,1,4,0,0,5,21,70
+pQR2HH3Xq6w,Making forums website using React,,So good to see so many videos,2021-03-09T06:25:54Z,meera solanki,1,0,0,0,5,56,70
+-VvatU1pTGg,Making A Mobile Application with React Native,,So good to see so many videos,2021-03-09T05:29:43Z,meera solanki,1,0,0,0,3,21,70
+EnSx1Z_6apQ,Making a Website in Python that generates rap songs,Hope you enjoyed the video. Sorry can't provide the github repo link but don't worry go to the tensorflow yt channel and check their Irish song generator vid then just use that code for this. :):),This is a cool project :D,2021-03-02T05:22:32Z,Ayaan Panda,1,4,0,0,3,34,70
+D94I_uIbpFE,Making a Wikipedia clone in Python,Hope you enjoyed this video :),V nicely explained,2021-03-01T06:39:44Z,meera solanki,0,2,0,0,5,112,70
+_2B2w-BRyhU,Neural Networks and Tensorflow crash course,Hope you enjoyed the video :):),Young age... great mind... keep going...,2021-02-26T18:53:18Z,meera solanki,1,2,0,0,6,25,70
+OLmCD8WxySU,Quantum Mechanics (Looking at the Schrödinger’s wave equation),,Special thanks to the YouTuber ParthG and Dr.PhysicsA from whom this video is adapted from.,2021-02-24T13:04:17Z,Coding made Easy,1,1,0,0,2,14,70
+B08faes0RSM,I Made A Website where you can post Memes,"Here is the url for the website
+
+https://machine-learning-help.web.app/
+
+
+Hope you liked it :)",Hoping to see some spicy memes on the website 😉,2021-02-22T07:50:59Z,Coding made Easy,3,18,0,0,5,28,70
+UyE0J81btME,React Tutorial (Part-2),,Amezing,2021-02-16T09:35:50Z,Rajnikant Kapasi,1,4,0,0,5,12,70
+6jo1fSsO3uE,React Tutorial (Part-1),,Amezing,2021-02-15T07:19:15Z,Rajnikant Kapasi,1,0,0,0,3,22,70
+MWQSR78mI1M,IOS App Development Tutorial (Part-2),,V good efforts and keep going...,2021-02-01T09:54:38Z,meera solanki,1,2,0,0,3,16,70
+eRULZrR3qIY,Live Coding Neural Networks In Python,In this livestream I will Code Neural Networks In Python,Very good improved speech 👍,2021-01-22T09:34:20Z,Rajnikant Kapasi,1,2,0,0,4,36,70
+k4Z6Pz9sm_g,IOS App Development Tutorial (Part-1),"A bit of a different series this time. But I hope you enjoy it. Also to do this on windows there is a program called mac stadium, it has also has a 30 day free trial which you can use",Very good improved speech 👍,2021-01-27T04:09:38Z,Rajnikant Kapasi,1,0,0,0,5,22,70
+qgy7vv94zmo,Making A Neural Network In Python that Composes Rap Songs,Hope you enjoyed the video :),op,2021-01-15T09:47:08Z,ISHAAN SHETH,1,7,0,0,5,16,70
+4JUCSfkOgow,Making A Text Classification Neural Network In Python that classifies Fifa Player stats,Hope You Enjoyed The Video :),op,2021-01-12T17:43:43Z,ISHAAN SHETH,1,0,0,0,3,17,70
+oEZINVLVKRg,Making a GUI Rock Paper Scissors Game In Python,Hope you enjoyed the video. Wishing you all a VERY HAPPY NEW YEAR,Wowowoow,2021-01-01T10:58:34Z,virina sheth,1,2,0,0,4,24,70
+Ad_AfZ1BcEU,Making a Neural Network In Python that composes songs,,Nice,2020-12-27T05:28:06Z,meera solanki,1,6,0,0,4,31,70
+ozICWPXEyD8,Making a Neural Network In Python that classifies images of Scientists.,"Comment down below the projects you made using ml and neural networks 
+
+Hope you enjoyed the video :)",Smartyyyy,2020-12-25T07:03:37Z,virina sheth,1,2,0,0,4,22,70
+nO7ZD36RpQ8,Quantum Computing In Python(Part-2),Hope you enjoyed this series,🤯,2020-12-23T13:52:42Z,virina sheth,1,2,0,0,4,28,70
+mq7UroOMRuY,Quantum Computing In Python(Part-1),Hope you enjoy this series,Keep it uppp🤙🏼,2020-12-21T11:27:56Z,virina sheth,1,2,0,0,3,29,70
+TfK3oKC9n1M,Making A Replica of Chrome Dinosaur In Python,,Good goingg!,2020-12-11T14:58:30Z,virina sheth,1,2,0,0,3,22,70
+cRA3ysxLGe0,Making a Neural Network That classifies my Images(In 10 Minutes),A Bit of a different and fun video today,Hoping to see a healthy competition in the comment section :),2020-12-10T12:50:32Z,Coding made Easy,2,3,0,0,4,18,70
+BkK_Ykw4mPQ,Making A Neural Network In Python that classifies Citrus Leaves Images,Hope you enjoyed the video smash subscribe if you want me to make a complete neural network,noicee,2020-12-02T08:59:49Z,virina sheth,1,2,0,0,2,17,70
+HIIZQGRqJTM,Making Flappy Bird In Python (Part-2),Hope you enjoyed the video,Genuiuss,2020-12-01T05:29:42Z,virina sheth,1,9,0,0,2,23,70
+mqpfrNzzzZ8,Making Flappy Bird In Python (Part-1),Hope you enjoyed the video :):),In case you are using windows the speed you allocate to your bird should be significantly less because windows allocates a lot of speed to foreign to development apps,2020-11-30T15:55:21Z,Coding made Easy,2,3,0,0,2,41,70
+nJSDT3u4kPo,Making A Custom Layer In Keras,Hope you enjoyed the video :),"This is not a custom layer, it's just a custom block.
+You should have made a video of some completely custom layer by using a bunch of trainable internal variables in the init and call functions.
+CLICK-BAIT!",2020-11-29T07:53:01Z,Ansh Riyal,0,3,1,0,7,210,70
+PLxg4ZG4AC8,Making A Machine Learning Model In Python that classifies music genres,A Bit of a different video hope you enjoyed it. Try it out by yourself also with some other pieces of data,Nice video 🥰,2020-11-28T17:44:29Z,isha solanki,0,2,0,0,2,23,70
+YrtTe5BxAFU,Making A Neural Network In Python That Classifies Malaria Cell Images,,Very good,2020-11-24T17:36:13Z,Swati Sheth,1,2,0,0,5,22,70
+69x-188nwHE,Making A Neural Network In Python that classifies My Emotions,Hope You Enjoyed the video.,Very good,2020-11-22T13:43:46Z,Swati Sheth,1,0,0,0,2,23,70
+j778c_cfEfE,Making A Calculator In Python That Calculates The Schwarzschild radius of A Black Hole.,,Hope you enjoyed The Video,2020-11-20T05:42:31Z,Coding made Easy,2,3,0,0,4,18,70
+ds2oTN3BX20,Facial Detection In Python Tutorial,"Here is the link to download the harrcascade
+
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml",Hope you enjoyed the video :),2020-10-31T10:43:15Z,Coding made Easy,1,5,0,0,4,27,70
+UbzpRxK_jno,Making An Online Multi User Chat App (Using Sockets and Networking),A bit of a different video today but hope you all enjoyed it :):):),Nice job !,2020-10-29T14:42:01Z,Dhruv Solanki,2,8,0,0,5,31,70
+hraBhgpnVNo,Making A Neural Network In Python that classifies COVID-19 Images,"Hope you enjoyed this neural network on real life data 
+
+Here is the link for the download for the dataset
+
+https://www.kaggle.com/pranavraikokte/covid19-image-dataset",Good..you made such useful thing,2020-10-28T07:21:08Z,meera solanki,1,6,0,0,4,28,70
+7J-DEoTPWjs,Making A CNN that classifies Bangla Numbers,"Here is the link for the colab file
+
+https://colab.research.google.com/drive/1nzNjvmWh6gr7Kq8sCAr52MvQCOIeFLHx#scrollTo=LcoAwYVPesvI",You r working on other subjects very good,2020-10-26T13:57:44Z,Rajnikant Kapasi,1,4,0,0,3,11,70
+-LMN1cEmpKo,Making Doodle Jump In Python,,Live....great... good confidence,2020-10-14T04:43:35Z,meera solanki,1,14,1,0,15,678,70
+Dct0e3J9LME,Pygame Tutorial (Part 1),In case you are wondering where i got the image assets from.. I got it from a website called flaticon.com,Hope you guys liked the video. And my brother’s explanation. If you have any constructive comments or criticism please post it down below in the comments :),2020-10-08T16:01:48Z,Coding made Easy,2,8,0,0,4,27,70
+IGQFARTyG2Y,Making A Neural Network In Python That Detects Types Of Cancer Cells,"Here is the link for the notebook
+
+https://colab.research.google.com/drive/1V9is2xgcs6HbT0nqjxv-ja8o8qgjqt2E#scrollTo=6Pfb1V8iYeP4",Hope you liked the video,2020-10-07T14:31:28Z,Coding made Easy,1,3,0,0,4,17,70
+Q3LBMCgEP_8,Convolutional Neural Network (CNN) explained,,OMG.... SCALING NEW HEIGHTS....GREAT,2020-10-07T07:28:28Z,meera solanki,1,4,0,0,5,18,70
+z5_IOdHqSIw,Making A Neural Network In Python That Can Classify Horse and Human Images,"Hope you guys liked the video
+ 
+Here is the link for the notebook
+
+https://colab.research.google.com/drive/1oYbNx6Fvz2GTPe8hWVGC-yIDoik4r-tC#scrollTo=LlZzMFtr3nbf",Great,2020-10-06T09:43:57Z,Hariharan M,1,2,0,0,3,11,70
+l-zkQvryBgY,Making A Neural Network in Python that classifies Rock Paper Scissor Images,You can actually make the model much much more accurate by just writing four more lines of code. Hope you can figure that out ;);),Hope you liked the video :),2020-10-05T07:14:18Z,Coding made Easy,1,5,0,0,4,23,70
+8BJOuAPH4p4,Making A Deep Learning Neural Network In Python,"Hope you liked the video 
+
+Here is the link for the notebook
+
+https://colab.research.google.com/drive/1pyf9C0mIbE_161hCgcVoeTnyJnhJ-tPb#scrollTo=hDxP-3seiu9g",Great achievement by yourself...proud of you,2020-10-04T07:40:02Z,meera solanki,2,6,0,0,6,16,70
+in8Nl9FflhM,Deep Learning In Python using Tensorflow tutorial,"Here is the link for the google colabatory
+
+https://colab.research.google.com/drive/1DezVmToej2eno1dKPq0wjIul1dx7nyAI#scrollTo=OYJhd0Rjt7fI",Hope you guys liked this video and want more neural network tutorials like this :):),2020-10-03T10:41:39Z,Coding made Easy,1,5,0,0,3,17,70
+5e52zo-GJIc,Making A Drawing App In Python (Using Mouse Controls),"Here is the code for this
+
+
+
+main()",Amazing!,2020-09-30T14:37:19Z,Hariharan M,1,2,0,0,3,26,70
+5EI2s540oZc,Making A Temperature Finding App In Python,This Video will give a in depth explanation on how to make your own temperature/weather finding app using the python module tkinter. Through this video you will also learn how to use pyinstaller and convert any python file to an executable.Last But not the least you will also learn how to make a message box using tkinter,"Hope You Guys Liked This Video If Need The Github Repo Here it is
+
+https://github.com/YashSolanki2007/Temperature-Finding-App",2020-09-22T10:32:29Z,Coding made Easy,2,3,0,0,6,22,70
+-iRhFrI905A,Making Agar.io In Python,,Hope you enjoyed,2020-09-15T13:02:06Z,Coding made Easy,2,18,2,0,22,724,70
+NXQYqJfrmbU,How To Fix the Pip Issue In Python,Through this video I will Teach You how to fix the most sort after issue of python Which Is How to Fix Pip...,Hope You Managed To Fix The Pip Issue Through this Video:),2020-09-13T16:15:57Z,Coding made Easy,1,5,0,0,4,25,70
+nicPk1MbX1U,I made a replica of Doodle Jump In Python,Hi I actually made A replica of the pretty popular Moblie Game Doodle Jump In Python. I hope you guys appreciate that and comment down below if you guys want to see a tutorial on this :):),Hi I am challenging you guys to do this yourself without watching any tutorial on youtube. If you manage to make this in ANY LANGUAGE paste the code either in the description or put it on your github and comment down its link. Hoping to see a healthy competition in the comments:):),2020-09-08T14:03:08Z,Coding made Easy,3,10,1,0,9,86,70
+3MK8pOO7Kfk,Making an external window in python,,Hi I am challenging you guys to do this yourself without watching any tutorial on youtube. If you manage to make this in ANY LANGUAGE paste the code either in the description or put it on your github and comment down its link. Hoping to see a healthy competition in the comments:):),2020-09-01T15:01:11Z,Coding made Easy,3,,0,0,6,51,70
+DtefVVkDkXU,7 Up 7 Down Game In Python,Through This Video You Will Learn How To Program A 7 Up 7 Down Game In Python. So Good Luck :),V nice,2020-08-20T16:20:05Z,Pratik Solanki,1,4,0,0,4,76,70
+EP1hrTKCVes,Data Visualization With Matplotlib(Part-2),,Hope you liked the video,2020-08-11T13:37:33Z,Coding made Easy,1,3,0,0,3,15,70
+vrpcYIsuHgA,Flask Crash Course in one video,,Thank you for so many different types of tutorials,2020-08-06T09:43:48Z,meera solanki,1,2,0,0,4,23,70
+r8SkMvH1nlk,Making a  Drawing App In Python,,"Before watching this, I thought that I should make a drawing app but watching this made me realize just how hard the people worked who made things like photoshop, snapseed, or even ms paint.",2020-07-30T17:06:16Z,InfernAtive,1,3,0,0,3,32,70
+UVwa8wCILnc,Classic Pong Game In Python,Hope You Enjoyed The Video :),Amazing 🤩,2020-07-29T13:36:38Z,isha solanki,1,2,0,0,7,24,70
+Y0qAu7qWW9Y,Rock Paper Scissors In Python,"This is going to be a tutorial for absolute beginners and will help them in creating their first Game.
+
+Here is the Code
+
+import random 
+
+#Title
+print(""ROCK PAPER SCISSOR\n"")
+
+#Mainloop
+while True:
+ #Game Variables
+ choices = [""Rock"", ""Paper"", ""Scissor""]
+
+ score = 0
+ print(score)
+
+ guess = input(""Enter Your Guess: "")
+ print(""You Guessed "" + guess)
+
+ computer_guess = random.choice(choices)
+ print(""The Computer Guessed: "" + computer_guess)
+
+ #Possibilites
+ if guess in choices:
+  if guess == computer_guess:
+   print(""Draw"")
+
+  if guess == ""Rock"" and computer_guess == ""Scissor"":
+   print(""You Win Yay!!!"")
+   score += 1 
+   print(""Your Score is "" + score)
+
+  if guess == ""Rock"" and computer_guess == ""Paper"":
+   print(""Computer Wins"")
+   print(""You Lose"")
+
+  if guess == ""Paper"" and computer_guess == ""Rock"":
+   print(""You Win Yay!!!"")
+   score += 1
+   print(""Your Score is "" + score)
+
+  if guess == ""Paper"" and computer_guess == ""Scissor"":
+   print(""Computer Wins"")
+   print(""You Lose"")
+
+  if guess == ""Scissor"" and computer_guess == ""Paper"":
+   print(""You Win Yay!!!"")
+   score += 1
+   print(""Your Score is "" + score)
+
+  if guess == ""Scissor"" and computer_guess == ""Rock"":
+   print(""Computer Wins"")
+   print(""You Lose"")",Keep going...great going,2020-07-28T14:50:36Z,meera solanki,1,2,0,0,3,18,70
+cTqZGlfPi90,Turtle Race Game,"Here is the code for the game
+
+import turtle
+import time
+from turtle import Turtle
+from random import randint
+
+#Creating the main window
+window = turtle.Screen()
+window.title(""Turtle Race Game Tutorial"")
+window.bgcolor(""forestgreen"")
+turtle.color(""white"")
+turtle.speed(0)
+turtle.penup()
+turtle.setpos(-140,200)
+turtle.write(""TURTLE RACE"", font=(""Arial"", 30, ""bold""))
+turtle.penup()
+
+#Making the dirt
+turtle.setpos(-400,-180)
+turtle.color(""chocolate"")
+turtle.begin_fill()
+turtle.pendown()
+turtle.forward(800)
+turtle.right(90)
+turtle.forward(300)
+turtle.right(90)
+turtle.forward(800)
+turtle.right(90)
+turtle.forward(300)
+turtle.end_fill()
+
+#Finish Line
+
+#FINISH LINE
+
+stamp_size=20
+square_size=15
+finish_line=200
+
+
+turtle.color(""black"")
+turtle.shape(""square"")
+turtle.shapesize(square_size/stamp_size)
+turtle.penup()
+
+for i in range(10):
+    turtle.setpos(finish_line,(150-(i * square_size * 2)))
+    turtle.stamp()
+
+
+for j in range(10):
+    turtle.setpos(finish_line + square_size,((150 - square_size)-(j * square_size * 2)))
+    turtle.stamp()
+
+turtle.hideturtle()
+
+#Making the first player
+
+turtle1 = Turtle()
+turtle1.speed(0)
+turtle1.color(""black"")
+turtle1.penup()
+turtle1.shape(""turtle"")
+turtle1.goto(-250,100)
+turtle1.pendown()
+
+#Making the second player
+
+turtle2 = Turtle()
+turtle2.speed(0)
+turtle2.color(""red"")
+turtle2.penup()
+turtle2.shape(""turtle"")
+turtle2.goto(-250,50)
+turtle2.pendown()
+
+#Making the third player
+
+turtle3 = Turtle()
+turtle3.speed(0)
+turtle3.color(""yellow"")
+turtle3.penup()
+turtle3.shape(""turtle"")
+turtle3.goto(-250,0)
+turtle3.pendown()
+
+#Making the fourth player
+
+turtle4 = Turtle()
+turtle4.speed(0)
+turtle4.color(""magenta"")
+turtle4.penup()
+turtle4.shape(""turtle"")
+turtle4.goto(-250,-50)
+turtle4.pendown()
+
+time.sleep(1)#Pause the game for a second
+
+for i in range(145):
+    turtle1.forward(randint(1, 5))
+    turtle2.forward(randint(1, 5))
+    turtle3.forward(randint(1, 5))
+    turtle4.forward(randint(1, 5))
+
+turtle.hideturtle()
+
+window.mainloop()
+
+Hope you all like the video :)",Amazinggggg,2020-07-24T18:00:08Z,isha solanki,1,4,0,0,3,24,70
+IM0ppTF18CQ,Data Visualization with python using matplotlib.,Through this course you will learn how to do data visualization with python and learn matplotlib fluently.,Amazinggggg,2020-07-22T15:54:23Z,isha solanki,1,0,0,0,3,15,70
+uaQR6yzqQg0,Creating A secret Diary in Python,This Video will teach you tkinter and also you will build a complete python project :),Hope you liked the video,2020-07-19T07:20:20Z,Coding made Easy,4,3,2,0,12,316,70
+62pgKs0gwng,Double Pong Game In Python,,Hope you liked the video,2020-07-18T17:32:03Z,Coding made Easy,4,0,0,0,3,33,70
+ffEuk6gHNOY,Python for beginners (Part-4),,Hope you liked the video,2020-07-01T16:50:59Z,Coding made Easy,4,,0,0,7,23,70
+PoIaiBvsvaY,Python for beginners (Part-3),,Hope you liked the video,2020-06-25T06:55:20Z,Coding made Easy,4,,0,0,8,19,70
+t_e07ohCtIY,Python for beginners (Part- 2),,Hope you liked the video,2020-06-18T17:08:13Z,Coding made Easy,4,,0,0,8,23,70
+uGMvWTU761A,Python for beginners (Part-1),This course will teach you python fluently,Hope you liked the video,2020-06-13T17:03:05Z,Coding made Easy,4,,0,0,20,144,70
